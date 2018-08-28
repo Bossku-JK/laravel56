@@ -10,7 +10,7 @@
 						<h2>Dashboard</h2>
 					</div>
 					<div class="body">
-                    You are logged in!
+                    สำหรับผู้ใช้เท่านั้น ++ 2511
 					</div>
 				</div>
 			</div>
