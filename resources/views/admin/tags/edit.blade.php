@@ -10,7 +10,7 @@
 						<h2>Dashboard</h2>
 					</div>
 					<div class="body">
-                    You are logged in!
+                    that true
 					</div>
 				</div>
 			</div>
